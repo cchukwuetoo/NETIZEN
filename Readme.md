@@ -15,7 +15,7 @@ Welcome to the **NETIZEN** project! This repository contains the source code and
     ```
 3. Install dependencies:
     ```bash
-    [Insert installation command, e.g., npm install]
+    npm init
     ```
 
 ## Usage
